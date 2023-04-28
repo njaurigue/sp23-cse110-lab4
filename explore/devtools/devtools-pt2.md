@@ -1,0 +1,2 @@
+1. Currently, the function calculateSum is adding two strings, and therefore they are appended into one longer string. Instead, we want to be adding together the integer representations of these values.
+2. We can use parseInt to convert the string parameters to integers, and then return their sum (screenshot found at fix.png).
